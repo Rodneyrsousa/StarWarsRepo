@@ -1,2 +1,2 @@
-# projeto_1_curso_git
+# StarWarsRepo
 Tutorial como usar Git
