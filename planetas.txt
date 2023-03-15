@@ -2,7 +2,6 @@ Alderaan
 Coruscant
 Naboo
 <<<<<<< HEAD
-Jakku.
-=======
+Jakku
 Dantooine
->>>>>>> c349f1628fc81048917c4f9a3d73f209f68f5af6
+
