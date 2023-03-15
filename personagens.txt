@@ -4,3 +4,6 @@ Mestre Yoda
 Leia Organa
 Chewbacca
 Jabba the Hutt
+
+Rey
+Finn
